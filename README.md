@@ -66,6 +66,7 @@ O usuário pode selecionar a opção desejada para gerenciar suas tarefas.
 |-----------|------------|
 | **Python** | Lógica da aplicação |
 | **JSON** | Armazenamento das tarefas |
+| **Google Colab** | Ambiente de desenvolvimento |
 
 ---
 
