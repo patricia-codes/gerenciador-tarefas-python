@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Linguagem](https://img.shields.io/badge/Python-3.x-blue)
 ![Dados](https://img.shields.io/badge/Armazenamento-JSON-lightgrey)
+![Ambiente](https://img.shields.io/badge/Ambiente-Google%20Colab-orange)
 
 ---
 
